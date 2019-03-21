@@ -10,8 +10,8 @@
  *
  * Created on 21 de marzo de 2019, 08:50 AM
  */
-
-#include <stdio.h>
+ 
+#include <iostream>
 #include <stdlib.h>
 
 /*
